@@ -12,18 +12,8 @@ Focused on solving real problems with simple and scalable tech.
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=70&lines=Hi,+I'm+Sunny;Frontend+Developer+%7C+Tech+Enthusiast;Founder+of+Raizian;Building+AI+%26+Automation+Tools;Turning+Logic+Into+Digital+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=70&lines=Hello,+Developers;Frontend+Developer+%7C+Tech+Enthusiast;Founder+of+Raizian;Building+AI+%26+Automation+Tools;Turning+Logic+Into+Digital+Reality" alt="Typing SVG" />
 </a>
-
-<h3>⚡ Innovating at the intersection of Design, Code, & AI</h3>
-
-<p align="center">
-  I specialize in crafting modern web experiences, engineering scalable automation systems, and building highly useful digital products.<br> Always shipping. Always building.
-</p>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00FF99&text=Terminal%20%2F%2F%20Current_Focus&height=50&fontAlignY=70&fontSize=24&fontAlign=center&descAlignY=90&descAlign=center" alt="Current Focus" />
 
 </div>
 
