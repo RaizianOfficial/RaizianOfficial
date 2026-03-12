@@ -12,7 +12,7 @@ Focused on solving real problems with simple and scalable tech.
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=70&lines=Hello,+Developers;Frontend+Developer+%7C+Tech+Enthusiast;Founder+of+Raizian;Building+AI+%26+Automation+Tools;Turning+Logic+Into+Digital+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FF99&center=true&vCenter=true&width=800&height=70&lines=Who+I+am?;Frontend+Developer+%7C+Tech+Enthusiast;Founder+of+Raizian;Building+AI+%26+Automation+Tools;Turning+Logic+Into+Digital+Reality" alt="Typing SVG" />
 </a>
 
 </div>
